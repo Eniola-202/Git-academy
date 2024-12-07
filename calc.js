@@ -1,3 +1,4 @@
+alert("Hello Eniola Alao");
 const button = document.querySelectorAll(".button")
 const screen = document.querySelector(".screen")
 const equal = document.querySelector(".btnequal")
